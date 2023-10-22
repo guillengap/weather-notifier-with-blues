@@ -1,0 +1,7 @@
+{
+    "api_key":"GMAC2OH1T6JW5UGJ",
+    "field1": body.temp,
+    "field2": body.humidity,
+    "field3": tower_location & ', ' & tower_country,
+    "field4": when
+}
